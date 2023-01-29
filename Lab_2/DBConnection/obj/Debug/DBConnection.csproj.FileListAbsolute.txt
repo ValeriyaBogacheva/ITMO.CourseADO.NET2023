@@ -1,0 +1,21 @@
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\tender\Desktop\PROFI\sql\DBConnection\DBConnection\obj\Debug\DBConnection.Main.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.Main.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_2\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
