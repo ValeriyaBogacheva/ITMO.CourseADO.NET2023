@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\bin\Debug\DSConnect.exe.config
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\bin\Debug\DSConnect.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\bin\Debug\DSConnect.pdb
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\obj\Debug\DSConnect.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\obj\Debug\DSConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\obj\Debug\DSConnect.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\obj\Debug\DSConnect.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\obj\Debug\DSConnect.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\obj\Debug\DSConnect.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.1. DSConnect\DSConnect\obj\Debug\DSConnect.pdb

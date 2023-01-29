@@ -1,0 +1,21 @@
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\obj\Debug\DBCommand.pdb
+C:\Users\tender\Desktop\PROFI\sql\DBCommand\DBCommand\obj\Debug\DBCommand.main.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.main.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Lab_3\3.3. DBCommand\DBCommand\obj\Debug\DBCommand.pdb

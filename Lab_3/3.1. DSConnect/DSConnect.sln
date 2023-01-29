@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSConnect", "DSConnect\DSConnect.csproj", "{928C9CDB-8125-4D81-94B3-A7E643580D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928C9CDB-8125-4D81-94B3-A7E643580D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928C9CDB-8125-4D81-94B3-A7E643580D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928C9CDB-8125-4D81-94B3-A7E643580D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928C9CDB-8125-4D81-94B3-A7E643580D41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {574540B8-809B-4AE4-BD78-4678C5ED0F8F}
+	EndGlobalSection
+EndGlobal
