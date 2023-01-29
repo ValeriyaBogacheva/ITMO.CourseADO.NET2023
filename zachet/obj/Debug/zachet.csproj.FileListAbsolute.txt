@@ -1,0 +1,34 @@
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.csproj.AssemblyReference.cache
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.connect.resources
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\bin\Debug\zachet.exe.config
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\bin\Debug\zachet.exe
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\bin\Debug\zachet.pdb
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.exe
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.pdb
+C:\Users\tender\Desktop\PROFI\sql\zachet\zachet\obj\Debug\zachet.main.resources
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\bin\Debug\zachet.exe.config
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\bin\Debug\zachet.exe
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\bin\Debug\zachet.pdb
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.csproj.AssemblyReference.cache
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.connecting.resources
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.main.resources
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.exe
+C:\Users\tender\Desktop\PROFI\sql\zachet2\zachet\obj\Debug\zachet.pdb
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\bin\Debug\zachet.exe.config
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\bin\Debug\zachet.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\bin\Debug\zachet.pdb
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.connecting.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.main.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.exe
+C:\Users\Lenovo\Desktop\ITMO\7. ADO.NET\Zachet\zachet\obj\Debug\zachet.pdb
