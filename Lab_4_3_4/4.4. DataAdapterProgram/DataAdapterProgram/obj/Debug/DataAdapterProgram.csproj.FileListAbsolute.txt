@@ -1,0 +1,10 @@
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.AssemblyReference.cache
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
+C:\Users\tender\Desktop\PROFI\sql\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.main.resources
