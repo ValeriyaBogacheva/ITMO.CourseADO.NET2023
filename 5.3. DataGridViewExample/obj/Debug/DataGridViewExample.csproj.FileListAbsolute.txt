@@ -1,0 +1,9 @@
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\tender\Desktop\PROFI\sql\DataGridViewExample\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
