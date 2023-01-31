@@ -1,0 +1,9 @@
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\tender\Desktop\PROFI\sql\WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
