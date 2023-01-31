@@ -1,0 +1,7 @@
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe.config
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.exe
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.pdb
+C:\Users\tender\Desktop\PROFI\sql\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.AssemblyReference.cache
