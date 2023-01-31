@@ -1,0 +1,16 @@
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.AssemblyReference.cache
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\tender\Desktop\PROFI\sql\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
