@@ -1,0 +1,11 @@
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\tender\Desktop\PROFI\sql\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb
