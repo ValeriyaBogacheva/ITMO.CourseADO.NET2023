@@ -1,0 +1,9 @@
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+C:\Users\tender\Desktop\PROFI\sql\DataBindingComplex\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources
