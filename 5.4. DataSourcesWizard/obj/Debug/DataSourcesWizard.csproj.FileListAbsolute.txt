@@ -1,0 +1,10 @@
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.AssemblyReference.cache
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Users\tender\Desktop\PROFI\sql\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
